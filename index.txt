@@ -66,4 +66,6 @@
   "Yeat - Type money Official Audio",
   "Yeat - Woa.Official Audio",
   "YNW Melly - Murder On My Mind"
+  "Sub Urban In Sunder",
+  "Billie Eilish Khalid lovely"
 }
