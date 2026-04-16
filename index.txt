@@ -67,5 +67,6 @@
   "Yeat - Woa.Official Audio",
   "YNW Melly - Murder On My Mind",
   "Sub Urban In Sunder",
-  "Billie Eilish Khalid lovely"
+  "Billie Eilish Khalid lovely",
+  "Tate McRae - chaotic (Lyric Video) [t6B6nS5ljzU]"
 }
