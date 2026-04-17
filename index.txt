@@ -113,7 +113,7 @@
   "Lil Uzi Vert - Diamonds All on My Wrist [s03q1XuCaEI]",
   "Lil Uzi Vert - Loaded [hw9HEyZPOrc]",
   "Lil Uzi Vert - Skir Skirr [9pnU_pWeno8]",
-  "Lil Uzi Vert - Seven Million Ft. Future [Produced By Nard & Bâ§¸XL + Don Cannon] [pgBWelhhxmY]",
+  "Lil Uzi Vert - Seven Million Ft. Future [Produced By Nard & BÃ¢Â§Â¸XL + Don Cannon] [pgBWelhhxmY]",
   "Lil Uzi Vert - Ronda (Winners) [Produced By Metro Boomin + CuBeatz] [g5S9iEnUJeU]",
   "Lil Uzi Vert - Erase Your Social [Produced By Don Cannon + Lyle LeDuff] [WxL2au41cnk]",
   "Lil Uzi Vert - You're Lost [Produced By Don Cannon + Slade Da Monsta] [7JUqYK9VeTQ]",
@@ -152,7 +152,7 @@
   "Future - Where Ya At (feat. Drake) (432Hz) [rREMKi5M5sw]",
   "Future - I Serve the Base (432Hz) [m4mOSbUcM88]",
   "Future - Thought It Was a Drought (432Hz) [cECtFt7l0N0]",
-  "Melanie Martinez - IS THIS A CULTï¼ (Official Audio) [5w3dd4PUwyQ]",
+  "Melanie Martinez - IS THIS A CULTÃ¯Â¼Â (Official Audio) [5w3dd4PUwyQ]",
   "Darci - Throwback (Official) [MMPaHVcwFqM]",
   "Melanie Martinez - UNCANNY VALLEY (Official Visualizer) [J-nbup1DotY]",
   "Michael Jackson - Heal The World (Official Video) [BWf-eARnf6U]",
@@ -164,5 +164,9 @@
   "The Kid LAROI - NIGHTS LIKE THIS PT 2 (Official Audio) [p03BfZWGKDw]",
   "Bad Company [ubjehKi1QRk]",
   "bbno gigolo starring Ethan Nestor",
-  "Confetti Ghost Lyrics"
+  "Confetti Ghost Lyrics",
+  "The Black Eyed Peas Rock That Body Official Music Video",
+  "Camila Cabello I LUV IT Feat.Playboi Carti Official Music Video",
+  "Rae Sremmurd Tanisha Pump That Official Music Video",
+  "Charli xcx Guess featuring billie eilish official video"
 }
